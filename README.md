@@ -42,9 +42,9 @@
 
 * The Below scatterplot depicting Life Expectancy and Fertility Rate statistics by Countries Regions for the year 1960 and 2013.
 
-###### 1960
+##### 1960
 ![alt text](https://github.com/RathanRaju/Python/blob/master/plot3.JPG "Plot 3")
 
 
-###### 2013
+##### 2013
 ![alt text](https://github.com/RathanRaju/Python/blob/master/plot4.JPG "Plot 4")
