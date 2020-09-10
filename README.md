@@ -23,3 +23,28 @@
 * Using the bank account program, one can create user profiles (name, account balance) which will be stored in different varables files. 
 
 * One can then do the normal bank transactions: deposit, withdraw, check balance or even close and delete their entire bank profile. 
+
+---
+
+## World Trends
+
+![alt text](https://github.com/RathanRaju/Python/blob/master/world_trends.JPG "Logo World Trends")
+
+#### The dataset is from World Bank and we have analysed the World’s demographic trends.
+
+* The Below scatterplot which is illustrating the Birth Rate and Internet Usage statistics by Countries’ Income Groups.
+
+![alt text](https://github.com/RathanRaju/Python/blob/master/plot1.JPG "Plot 1")
+
+* The Below scatterplot will also illustrate the Birth Rate and Internet Usage statistics by Countries’ Regions.
+
+![alt text](https://github.com/RathanRaju/Python/blob/master/plot2.JPG "Plot 2")
+
+* The Below scatterplot depicting Life Expectancy and Fertility Rate statistics by Countries Regions for the year 1960 and 2013.
+
+###### 1960
+![alt text](https://github.com/RathanRaju/Python/blob/master/plot3.JPG "Plot 3")
+
+
+###### 2013
+![alt text](https://github.com/RathanRaju/Python/blob/master/plot4.JPG "Plot 4")
