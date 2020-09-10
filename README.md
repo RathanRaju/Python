@@ -1,5 +1,7 @@
 # Python Programs
 
+---
+
 ## Classic Tic-Tac-Toe Game in Python 3.7
 
 ![alt text](https://github.com/RathanRaju/Python/blob/master/tic_tac_toe.JPG "Logo Tic Tac Toe")
@@ -12,3 +14,4 @@
 
 * The board is numbered like the keyboard’s number pad. And thus, a player can make their move in the game board by entering the number from the keyboard number pad.
 
+---
